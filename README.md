@@ -1,8 +1,11 @@
 # **Paulino, John Albert A.**
 
 **Location:** Quezon City, Philippines
+
 **Email:** [johnalbert.paulino@neu.edu.ph](mailto:your.email@example.com)
+
 **GitHub:** github.com/yourusername
+
 **LinkedIn:** linkedin.com/in/yourname
 
 ## **Introduction**
