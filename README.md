@@ -18,9 +18,7 @@
 
 ## **Certificates**
 
-* [Certificate Name] – [Organization], [Year]
-* [Certificate Name] – [Organization], [Year]
-* [Certificate Name] – [Organization], [Year]
+* <a href="https://courses.cognitiveclass.ai/certificates/6126e536852a4fd9b08bb42ef1c39df0">SQL and Relational Databases 101</a>
 
 ## **Skills**
 
