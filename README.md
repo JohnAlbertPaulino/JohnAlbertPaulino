@@ -4,9 +4,9 @@
 
 **Email:** [johnalbert.paulino@neu.edu.ph](mailto:your.email@example.com)
 
-**GitHub:** github.com/yourusername
+**GitHub:** github.com/JohnAlbertPaulino
 
-**LinkedIn:** linkedin.com/in/yourname
+**LinkedIn:** linkedin.com/in/JohnAlbertA.Paulino
 
 ## **Introduction**
 
@@ -24,4 +24,4 @@
 
 * Programming: Python, Java, HTML, CSS
 * Soft Skills: Communication, Teamwork, Problem-Solving
-* Other Skills: Basic Linux, Debugging, Time Management
+
