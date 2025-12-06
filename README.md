@@ -14,11 +14,12 @@
 
 ## **Education**
 
-- Bachelor of Science in Information Techonology - New Era University, 2024 - 2025
+- Bachelor of Science in Information Techonology - New Era University
 
 ## **Certificates**
 
 * <a href="https://courses.cognitiveclass.ai/certificates/6126e536852a4fd9b08bb42ef1c39df0">SQL and Relational Databases 101</a>
+* <a href="[https://courses.cognitiveclass.ai/certificates/6126e536852a4fd9b08bb42ef1c39df0](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8D844A583605A476EA8531CD45E495FD11589B2A59440E0D311CA40E8C767A33)">Oracle Cloud Infrastructure 2025 Certified Foundations Associate</a>
 
 ## **Skills**
 
